@@ -1,0 +1,9 @@
+s = str(input('Escreva uma palavra :'))
+
+
+
+
+if s == s [:: -1] :
+  print(s[:: -1]) 
+else :
+  print("Não é um palindromo")
